@@ -1,6 +1,6 @@
 # agentic-os
 
-A tiny, beginner-friendly starting point for exploring the idea of an **agentic OS**: a workspace where AI agents can help plan, execute, and improve tasks.
+A tiny, beginner-friendly documentation starting point for exploring the idea of an **agentic OS**: a workspace where AI agents can help plan, execute, and improve tasks.
 
 ## Why this repo is beginner-friendly
 
@@ -13,7 +13,7 @@ A tiny, beginner-friendly starting point for exploring the idea of an **agentic 
 1. Clone the repo
 2. Read this README
 3. Decide what you want your agent to help with
-4. Add your first notes, scripts, or experiments
+4. Add your first notes, scripts, or experiments to this repo
 
 ## Good first ideas
 
